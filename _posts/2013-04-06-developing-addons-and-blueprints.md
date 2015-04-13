@@ -55,6 +55,7 @@ Note: An addon can NOT be created inside an existing application.
 
 ### Create addon
 To create a basic addon:
+`ember addon <addon-name>`
 
 Running this command should generate something like the following:
 
